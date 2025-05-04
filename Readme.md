@@ -1,8 +1,5 @@
 🚀 Advanced AI/ML Tools Suite
-Show Image
-Show Image
-Show Image
-Show Image
+
 A comprehensive toolkit for working with cutting-edge AI/ML technologies including Large Language Models, Generative Adversarial Networks, Computer Vision, and Recommendation Systems.
 📋 Table of Contents
 
@@ -153,13 +150,8 @@ rec_system.train("path/to/ratings.csv")
 recommendations = rec_system.recommend(user_id=42, n=10)
 print("Recommended items:", recommendations)
 📚 Documentation
-Language Models
-Our toolkit provides a unified interface for working with various LLM architectures:
-ModelFine-tuning SupportHosted APILocal DeploymentGPT Series✅ (via OpenAI)✅❌BERT✅❌✅T5✅❌✅LLaMA✅❌✅PaLM✅ (limited)✅❌Claude✅ (via Anthropic)✅❌BLOOM✅❌✅Falcon✅❌✅
-Generative Models
-Our GAN implementations follow a consistent API for easy swapping and comparison:
-python# The basic pattern works for all GAN types
-from aiml_tools.gan import StyleGAN, DCGAN, CycleGAN
+![image](https://github.com/user-attachments/assets/4550ad7c-bce1-4203-838e-dc9011ded0ec)
+
 
 # Initialize with options
 model = StyleGAN(
