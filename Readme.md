@@ -1,3 +1,6 @@
+12 projects 17 .ipny files
+
+
 🚀 Advanced AI/ML Tools Suite
 
 A comprehensive toolkit for working with cutting-edge AI/ML technologies including Large Language Models, Generative Adversarial Networks, Computer Vision, and Recommendation Systems.
