@@ -1,4 +1,4 @@
-12 projects 17 .ipny files
+12 projects 17 .ipynb files
 
 
 🚀 Advanced AI/ML Tools Suite
